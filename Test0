@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>This is a TEST</title>
+
+</head>
+
+
+<body>
+<h1>Hey Ho</h1>
+<p>LEt's Go!</p>
+
+<script type="text/javascript">
+  alert ('Check it out')
+
+
+</script>
+
+</body>
+</html>
